@@ -1,0 +1,1 @@
+/Volumes/Data/Private/04_Librarys/ReactiveNotifierProject/reactive_notifier/example/app/build/app/intermediates/cxx/Debug/3j4k6r1q/obj/armeabi-v7a

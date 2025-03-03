@@ -1,0 +1,2 @@
+/Volumes/Data/Private/04_Librarys/ReactiveNotifierProject/reactive_notifier/example/app/android/app/.cxx/Debug/3j4k6r1q/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/Data/Private/04_Librarys/ReactiveNotifierProject/reactive_notifier/example/app/android/app/.cxx/Debug/3j4k6r1q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
