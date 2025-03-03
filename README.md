@@ -19,12 +19,6 @@ Multiple updates per frame without junk
 https://github.com/user-attachments/assets/9270d32f-cd82-499b-9719-4b3c61119a60
 
 
-
-Creation of hundreds of instances, in this case more than 2000, use of functions for efficient memory cleaning.
-
-https://github.com/user-attachments/assets/b9aca889-abee-4222-8a74-2cd1b00ecc98
-
-
 The logic behind this is that Reactive Notifier is designed so that the developer can define when to dispose the instance since listers are tied to the lifecycle so there is no problem.
 
 There is also autodispose, if you want you can use the test called performance.dart and correct if any metric is miscalculated, that helps for better readability.
